@@ -1,0 +1,17 @@
+# project
+_build/
+
+# Windows
+x64/
+Debug/
+Release/
+bin/
+obj/
+.vs/
+*.o
+*.suo
+*.sdf
+*.pdb
+*.user
+*.opensdf
+ipch/
